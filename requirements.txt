@@ -1,0 +1,16 @@
+matplotlib
+numpy
+jupyterlab
+pandas
+scikit-learn
+pyarrow
+joblib
+seaborn
+ipykernel
+xgboost
+geopandas
+requests
+
+# Bayesian network experiment (src/LightGBM.ipynb)
+pgmpy
+networkx
