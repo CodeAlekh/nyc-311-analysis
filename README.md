@@ -5,7 +5,7 @@ A data-mining study of **~2.6 million NYC 311 service requests** from 2025. It h
 1. **Supervised classification:** predict how long a new service request will take to resolve, using only information available when it's filed.
 2. **Unsupervised clustering:** group NYC ZIP codes by *what* residents complain about and by *how fast* the city responds.
 
-📄 **[Read the full report (PDF)](report.pdf)**. This was the final project for CS521 (Data Mining) at the University of New Mexico, Fall 2025.
+This was the final project for CS521 (Data Mining) at the University of New Mexico, Fall 2025.
 
 ---
 
@@ -110,7 +110,6 @@ The two clusterings together point to areas where resources could be reallocated
 
 ```
 .
-├── report.pdf                              # Full project report
 ├── geo_data.geojson                        # NYC ZIP code boundaries (for maps)
 ├── images/                                 # Figures used in this README
 ├── results/class_distribution.png
